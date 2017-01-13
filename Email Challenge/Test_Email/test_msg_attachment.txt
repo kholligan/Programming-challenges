@@ -1,0 +1,37 @@
+MIME-Version: 1.0
+Received: by 10.12.133.163 with HTTP; Tue, 10 Jan 2017 13:24:31 -0800 (PST)
+Date: Tue, 10 Jan 2017 14:24:31 -0700
+Delivered-To: returnpath.test.kevin@gmail.com
+Message-ID: <CAAg=dJdx7Rqq6=HCse8vEPG+AeKagyvE-Xr80JD-bz8jo21+gw@mail.gmail.com>
+Subject: Home depot with attachment
+From: Test Account <returnpath.test.kevin@gmail.com>
+To: Test Account <returnpath.test.kevin@gmail.com>
+Content-Type: multipart/mixed; boundary=001a11c11bea246f960545c41cf4
+
+--001a11c11bea246f960545c41cf4
+Content-Type: multipart/alternative; boundary=001a11c11bea246f900545c41cf2
+
+--001a11c11bea246f900545c41cf2
+Content-Type: text/plain; charset=UTF-8
+
+See attachment
+
+--001a11c11bea246f900545c41cf2
+Content-Type: text/html; charset=UTF-8
+
+<div dir="ltr">See attachment</div>
+
+--001a11c11bea246f900545c41cf2--
+--001a11c11bea246f960545c41cf4
+Content-Type: text/csv; charset=US-ASCII; name="search_results.csv"
+Content-Disposition: attachment; filename="search_results.csv"
+Content-Transfer-Encoding: base64
+X-Attachment-Id: f_ixs0z8mo0
+
+VUlELFN1YmplY3QsU2VuZGVyLFJlY2lwaWVudCxEYXRlLE1lc3NhZ2VfYm9keQ0KMTksTmV0Zmxp
+eCBleGFtcGxlLFRlc3QgQWNjb3VudCA8cmV0dXJucGF0aC50ZXN0LmtldmluQGdtYWlsLmNvbT4s
+cmV0dXJucGF0aC50ZXN0LmtldmluQGdtYWlsLmNvbSwiVHVlLCAxMCBKYW4gMjAxNyAxMDo0Mzoz
+NyAtMDcwMCIsDQoyNCxOZXRmbGl4IGZyb20gYSBkaWZmZXJlbnQgZm9sZGVyLFRlc3QgQWNjb3Vu
+dCA8cmV0dXJucGF0aC50ZXN0LmtldmluQGdtYWlsLmNvbT4scmV0dXJucGF0aC50ZXN0Lmtldmlu
+QGdtYWlsLmNvbSwiVHVlLCAxMCBKYW4gMjAxNyAxMDo1NDo0NyAtMDcwMCIsDQo=
+--001a11c11bea246f960545c41cf4--
